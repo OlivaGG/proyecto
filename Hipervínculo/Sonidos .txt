@@ -1,0 +1,14 @@
+<html>
+     <head> 
+          <title>Página con sonidos activados por el usuario</title>
+      </head>
+      <body>
+              <h2>Sonidos activados por el ususario</h2>
+              ¿Cuál sonido prefires?
+              <hr>
+              <p><a href=Gato.wav>Maullido de Gato</a href></p>
+              <p><a href=Cumpleaños2.mid>Canción de Cumpleaños</a href></p>
+              <hr>
+      </body>
+</html>
+

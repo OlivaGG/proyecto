@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Menú_ángulos</title>
+</head>
+<body><center>
+     </center><table border="1" bordercolor="orange">
+  <tbody><tr><td colspan="3"><center><h3><font face="Arial">Según sus ángulos</font></h3></center></td>
+</tr>
+  <center><tr>
+    <th><font face="Arial"><a href=Rectángulo.html>Rectángulo</font></th>  
+    <th><font face="Arial"><a href=Acutángulo.html>Acutángulo</font></th>
+    <th><font face="Arial"><a href=Obtusángulo.html>Obtusángulo</font></th>

@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> Continentes </title>
+</head>
+<body><center>
+     </center><table border="1" bordercolor="purple">
+  <tbody><tr><td colspan="6"><center><h3><font face="Papyrus">Continentes</font></h3></center></td>
+     
+  </tr>
+  <tr>
+    <th><font face="Papyrus">Améric</font></th>  
+    <th><font face="Papyrus">Europa</font></th>
+    <th><font face="Papyrus">Asia</font></th>
+    <th><font face="Papyrus">América</font></th>
+    <th><font face="Papyrus">Oceanía</font></th>
+    <th><font face="Papyrus">Antártida</font></th>
+  </tr>
+  <tr> 
+    <td><font face="Papyrus"></font><ol><font face="Papyrus"><li>Canadá</li><li>Belice</li><li>Nicaragua</li><li>Venezuela</li><li>Chile</li></font></ol></td> 
+    <td><font face="Papyrus"><li>Bulgaria</li><li>Dinamarca</li><li>Noruega</li><li>Ucrania</li><li>Irlanda</li></font></td>
+    <td><font face="Papyrus"></font><ol type="A"><font face="Papyrus"><li>Filipinas</li><li>Armenia</li><li>Birmania</li><li>Malasia</li><li>Vietman</li></font></ol></td>
+    <td><font face="Papyrus"></font><ol type="square"><font face="Papyrus"><li>Ghana</li><li>Angola</li><li>Zimbabue</li><li>Uganda</li><li>Kenia</li></font></ol></td>
+    <td><font face="Papyrus"></font><ul type="I"><font face="Papyrus"><li>Fíyi</li><li>Nauru</li><li>Tonga&gt;</li>Nueva Zelanda<li>Palaos</li></font></ul></td>
+    <td><font face="Papyrus"></font><ul type="circle"><font face="Papyrus"><li>La Antártida argentina (Argentina)</li><li>La dependencia Rosas (Nueva Zelanda</li><li>Adelie Land (Francia)</li><li>territorio      Antártico Australiano (Australia)</li><li>Islandia Pedro lo Tierra de la Reina Maud (Noruega)</li><li>Antártida Chilena (Chile)</li><li>Marye Byrd (sin      pertenencia)</li></font></ul></td>
+  </tr>
+  <tr>
+   <td><img src="america.jpg" align="middle" width="100" height="100"></td>
+   <td><img src="europa.jpg" width="100" height="100" align="middle"></td> 
+   <td><img src="asia.jpg" width="100" height="100" align="middle"></td>
+   <td><img src="africa.jpg" width="100" height="100" align="middle"></td> 
+   <td><img src="oceania.jpg" width="100" height="100" align="middle"></td>
+   <td><img src="antartida.jpg" width="100" height="100"></td> </tr></tbody></table></body></html>

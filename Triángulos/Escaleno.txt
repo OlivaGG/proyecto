@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Triángulo escaleno</title>
+</head>
+<body background="escalen.jpg">
+<h1><center><marquee behavior="alternate">Triángulo Escaleno</marquee></center></h1>
+<hr>
+<center><img src="escaleno.png" wdth=180 height=180></center>
+<center><font size=4 face=arial>El triángulo escaleno es un polígono de tres lados, siendo todos éstos diferentes.
+
+<br>
+<h3><font color="yellow"><p align=left>Área</p></font></h3>
+<p align=left> 
+El área de un triángulo escaleno puede calcularse mediante la fórmula de Herón si se conocen todos sus lados (a, b y c).
+<br>
+<img src="area e2.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align=left>También se podría calcular si se conoce un lado (b) y la altura (h) asociada a dicho lado.
+<br>
+<br>
+<img src="area 21.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="brown"><p align=left>Perímetro</p></font></h3>
+<p align=left>
+Su perímetro es la suma de los 3 lados aunque sean desiguales.
+<br>
+<br>
+<img src="perimetro e2.jpg" align=left>

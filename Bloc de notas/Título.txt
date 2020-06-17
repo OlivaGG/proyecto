@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Proyecto Final</title>
+<body background="s.jpg">
+<h1><marquee behavior="scroll"><font color="Blue">Proyecto Final</font></marquee></h1>
+</head>
+</html>

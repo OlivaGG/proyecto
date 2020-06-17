@@ -1,0 +1,6 @@
+<html>
+<head>
+<title>Autor</title>
+<body background="hs.jpg">
+<marquee direction="right"><font color="black">Mendez Montes Miranda Ximena</font></marquee><marquee behavior="scroll"><font color="white">2IM1</font></marquee>
+</html>

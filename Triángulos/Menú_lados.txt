@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Menú_lados</title>
+</head>
+<body><center>
+    <table border="1" bordercolor="orange">
+  <tbody><tr><td colspan="3"><center><h3><font face="Arial">Según sus lados</font></h3></center></td>
+</tr>
+  <tr>
+    <th><font face="Arial"><a href=Equilátero.html>Equilátero</font></th>  
+    <th><font face="Arial"><a href=Isóceles.html>Isósceles</font></th>
+    <th><font face="Arial"><a href=Escaleno.html>Escaleno</font></th>

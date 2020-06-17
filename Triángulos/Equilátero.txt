@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Triángulo equilatero</title>
+</head>
+<body background="equilatero.png">
+<h1><center><marquee behavior="scroll">Triángulo Equilátero</marquee></center></h1>
+<hr>
+<img src="formula e.jpg" align=right>
+<p align=left><font size=4 face=arial>El triángulo equilátero es el polígono regular más simple. Sus tres lados son iguales.
+Al ser todos los ángulos iguales y ser la suma de los ángulos de 180º, sus tres ángulos interiores son de 60º (180º/3=60º).
+<br>
+<br>
+<h3><font color="purple">Altura</font></h3>
+<p align=left>La altura (h) del triángulo equilátero se puede calcular a partir del teorema de Pitágoras. Los lados a, a/2 y h forman un triángulo rectángulo.
+ Los lados a/2 y h son los catetos y a la hipotenusa.
+<img src="alturo e.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="blue">Área</font></h3>
+<p align=left>Su área será un medio de la base (a) por su altura.
+<br>
+<img src="area e.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="green">Perímetro</font></h3>
+<p aling=left>Su perímetro será tres veces la longitud de uno de sus lados (a).
+<br>
+<img src="perimetro e.jpg" align=left> 

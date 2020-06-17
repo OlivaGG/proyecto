@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Triángulo Obtusángulo</title>
+</head>
+<body background="ob.jpg">
+<h1><center><marquee direction="left"><font color="Purple">Triángulo Obtusángulo</font></marquee></center></h1>
+<hr>
+<center><img src="obt.png" wdth=180 height=180></center>
+<center><font size=4 face=arial>El triángulo obtusángulo se caracteriza por tener uno de sus ángulos interiores obtuso, eso quiere decir que el ángulo es mayor a 90°, por lo tanto, los ángulos internos restantes son menores a 90°.
+<br>
+<br>
+<h3><font color="lime"><p align=left>Área</p></font></h3>
+<p align=left>Su altura se calcula multiplicando base por altura y el resultado entre 2. 
+<br>
+<img src="area r.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="blue"><p align=left>Perímetro</p></font></h3>
+<p align=left>Se calcula sumando todos los lados.
+<br>
+<br>
+<img src="perimetro r.jpg" align=left>

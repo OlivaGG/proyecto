@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Triángulo isóceles</title>
+</head>
+<body background="isoceles.jpg">
+<h1><center><marquee behavior="slide">Triángulo Isóceles</marquee></center></h1>
+<hr>
+<center><img src="is.jpg" wdth=180 height=180></center>
+<center><font size=4 face=arial>El triángulo isósceles es un polígono de tres lados, siendo dos iguales y el otro desigual.</center>
+<br>
+<br>
+<h3><font color="pink">Altura</font></h3>
+<p align=left>La altura (h) del triángulo isósceles se puede calcular a partir del teorema de Pitágoras. Los lados a, b/2 y h forman un triángulo rectángulo. Los lados b/2 y h son los catetos y a la hipotenusa.
+<br>
+<br>
+<img src="altura i.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="red">Área</font></h3>
+<p align=left> 
+El área de un triángulo isósceles se calcula a partir de la base b (el lado no repetido) y la altura (h) del triángulo correspondiente a la base. El área es el producto de la base y la altura dividido por dos.
+<br>
+<img src="area i.jpg" align=left>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3><font color="orange">Perímetro</font></h3>
+<p aling=left>El perímetro de un triángulo isósceles se obtiene como suma de los tres lados del triángulo. Al tener dos lados iguales, el perímetro es dos veces el lado repetido (a) más el lado desigual (b)
+<br>
+<img src="perimetro i.jpg" align=left>
+ 

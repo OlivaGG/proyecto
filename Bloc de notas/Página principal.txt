@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Proyecto Final</title>
+</head>
+<bgsound src="lluvia.mp3">
+<frameset bordercolor="purple">
+<frameset border=5>
+<frameset rows="10%,85%,8%">
+<frame src="Título.html">
+<frameset cols="20%,60%,20%">
+<frame src="Menú_sitio personal.html">
+<frame src="Salmón.html" name="Principal">
+<frame src="Menú_prácticas.html">
+</frameset>
+<frame src="autor.html">
+</frameset>
+</html>
+

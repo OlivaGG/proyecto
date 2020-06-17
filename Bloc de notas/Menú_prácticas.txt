@@ -1,0 +1,18 @@
+<html><head>
+<title>Menú_prácticas</title>
+</head>
+<body background="mo.jpg">
+<h1><font color="red" face="arial"><center>Prácticas</center></font></h1>
+<ul>
+<li><a href="first/Estructuras.html" target="Principal">Estructura básica y texto</a>
+<li><a href="Listas.html" target="Principal">Listas y líneas</a>
+<li><a href="Líneas.html" target="Principal">Líneas y listas</a>
+<li><a href="Imágenes y multimedia/Sala2.html" target="Principal">Imágenes y multimendia</a>
+<li><a href="Imágenes y multimedia/Galería.html" target="Principal">Imágenes y multimedia 2</a>
+<li><a href="Hipervínculo/Hipervínculos.html" target="Principal">Hipervínculos</a>
+<li><a href="Hipervínculo/Hipervínculo.html" target="Principal">Práctica hiérvínculo</a>
+<li><a href="Tablas y continentes/Tablas.html" target="Principal">Tablas</a>
+<li><a href="Tablas.html" target="Principal">Tablas 2</a><li><a href="Tablas y continentes/Continentes.html" target="Principal">Continentes</a>
+<li><a href="frames/Index_colores.html" target="Principal">Frames</a>
+<li><a href="Triángulos/Frame_Triángulos.html" target="Principal">Triángulos</a>
+</li></ul></body></html>
